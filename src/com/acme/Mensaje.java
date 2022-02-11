@@ -10,8 +10,8 @@ public class Mensaje {
         return scn.nextLine();
     }
 
-    public void saludar(String nombre) {
+    public void saludar(Persona p) {
         //System.out.println("Hola %s, bienvenido a Java \n", nombre);
-        System.out.println("Hola " + nombre + ", bienvenido a Java \n");
+        System.out.println("Hola " + p + ", bienvenido a Java \n");
     }
 }
