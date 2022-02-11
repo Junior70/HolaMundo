@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644611893271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se agrego la clase HolaMundo2">
+      <created>1644612346960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644612346960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se agrego la clase HolaMundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrego la clase HolaMundo" />
+    <MESSAGE value="Se agrego la clase HolaMundo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrego la clase HolaMundo2" />
   </component>
 </project>
