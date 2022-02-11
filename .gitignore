@@ -10,6 +10,10 @@ build/
 !**/src/test/**/build/
 target/
 screenshot/
+<<<<<<< HEAD
+=======
+.idea/workspace.xml
+>>>>>>> 58b79abf79689c85f8e62107c3d031265f8fc2bf
 
 
 ### STS ###
